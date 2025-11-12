@@ -60,4 +60,10 @@ Atualmente atuo como QA Pleno, com foco em **validação de sistemas financeiros
 
 ---
 
+## 🐍 Meus commits viraram um jogo!
+
+![Snake animation](https://github.com/LidiaPaulaO/LidiaPaulaO/blob/output/github-snake.svg)
+
+---
+
 ⭐️ *“Qualidade não é um ato, é um hábito.” – Aristóteles*
